@@ -1,0 +1,23 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "Coursera: NodeJs Server Side Developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akanshagautam3751/Node-mongoose-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akanshagautam3751/Node-mongoose-example/issues"
+  },
+  "homepage": "https://github.com/akanshagautam3751/Node-mongoose-example#readme",
+  "dependencies": {
+    "mongoose": "^5.3.15"
+  }
+}
